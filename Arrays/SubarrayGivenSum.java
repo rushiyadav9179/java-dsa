@@ -29,5 +29,6 @@ public class SubarrayGivenSum {
             }
             j++;
         }
+        sc.close();
     }
 }

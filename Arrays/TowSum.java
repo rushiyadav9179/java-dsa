@@ -28,5 +28,6 @@ public class TowSum{
                 left++;
             }
         }
+        sc.close();
     }
 }

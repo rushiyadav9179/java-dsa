@@ -23,6 +23,6 @@ public class RemoveDuplicates {
         for(int i=0; i<=slow; i++){
             System.out.print(arr[i]);
         }
-
+        sc.close();
     }
 }
