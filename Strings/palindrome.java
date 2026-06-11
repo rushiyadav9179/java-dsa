@@ -28,6 +28,6 @@ public class palindrome {
         if(palindrome==1){
             System.out.println("array is palindrome...");
         }
-
+        sc.close();
     }
 }
