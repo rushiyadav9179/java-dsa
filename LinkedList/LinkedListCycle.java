@@ -47,7 +47,7 @@ public class LinkedListCycle {
         ListNode b = new ListNode(20);
         ListNode c = new ListNode(30);
         ListNode d = new ListNode(40);
-
+        
         a.next = b;
         b.next = c;
         c.next = d;
