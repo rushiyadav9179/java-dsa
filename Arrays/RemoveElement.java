@@ -7,33 +7,20 @@ public class RemoveElement {
 
     public int solution(int[] nums, int val) {
 
-        int bp = nums.length - 1;
-        int count = 0;
+        int n = nums.length - 1;
+        int i = 0;
 
-        for(int j = 0; j < nums.length; j++) {
-            if(nums[j] == val) {
-                count++;
-            }
-        }
-
-        for(int i = 0; i <= bp;) {
+        while(i <= n) {
 
             if(nums[i] == val) {
-
-                if(nums[bp] == val) {
-                    bp--;
-                } else {
-                    nums[i] = nums[bp];
-                    bp--;
-                    i++;
-                }
-
+                nums[i] = nums[n];
+                n--;
             } else {
                 i++;
             }
         }
 
-        return nums.length - count;
+        return n + 1;
     }
 
     public static void main(String[] args) {
