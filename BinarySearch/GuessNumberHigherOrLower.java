@@ -5,18 +5,28 @@ package BinarySearch;
 // Time Complexity: O(log n)
 // Space Complexity: O(1)
 
-/*
- * The GuessGame class and guess() API are provided by LeetCode.
- *
- * guess(num) returns:
- *  -1 → num is higher than picked number
- *   1 → num is lower than picked number
- *   0 → num is equal to picked number
- */
+public class GuessNumberHigherOrLower {
 
-public class GuessNumberHigherOrLower extends GuessGame {
+    private int pick;
 
-    public int guessNumber(int n) {
+    public GuessNumberHigherOrLower(int pick) {
+        this.pick = pick;
+    }
+
+    public int guess(int num) {
+
+        if(num == pick) {
+            return 0;
+        }
+        else if(num < pick) {
+            return 1;
+        }
+        else {
+            return -1;
+        }
+    }
+
+    public int solution(int n) {
 
         int low = 1;
         int high = n;
@@ -39,5 +49,18 @@ public class GuessNumberHigherOrLower extends GuessGame {
         }
 
         return -1;
+    }
+
+    public static void main(String[] args) {
+
+        int n = 10;
+        int pick = 6;
+
+        GuessNumberHigherOrLower obj =
+            new GuessNumberHigherOrLower(pick);
+
+        int result = obj.solution(n);
+
+        System.out.println("Picked Number: " + result);
     }
 }
