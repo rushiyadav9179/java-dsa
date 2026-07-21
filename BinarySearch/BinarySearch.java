@@ -4,7 +4,7 @@ package BinarySearch;
 // Time Complexity: O(log n)
 // Space Complexity: O(1)
 
-public class BinarySearch {
+public class BinarySearch{
 
     public int solution(int[] nums, int target) {
 
