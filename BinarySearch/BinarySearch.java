@@ -4,7 +4,7 @@ package BinarySearch;
 // Time Complexity: O(log n)
 // Space Complexity: O(1)
 
-public class BinarySearch{
+public class Binarysearch{
 
     public int solution(int[] nums, int target) {
 
@@ -31,7 +31,7 @@ public class BinarySearch{
 
     public static void main(String[] args) {
 
-        BinarySearch obj = new BinarySearch();
+        Binarysearch obj = new Binarysearch();
 
         int[] nums = {-1, 0, 3, 5, 9, 12};
         int target = 9;
