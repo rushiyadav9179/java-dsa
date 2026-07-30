@@ -1,3 +1,4 @@
+package Sorting;
 class MergeSort{
 
     public static void divide(int[] arr,int low,int high){
