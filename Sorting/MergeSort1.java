@@ -68,7 +68,7 @@ public class MergeSort1 {
 
     public static void main(String[] args) {
 
-        MergeSort obj = new MergeSort();
+        MergeSort1 obj = new MergeSort1();
 
         int[] arr = {5, 2, 3, 1};
 
