@@ -1,4 +1,3 @@
-package Strings;
 
 // Problem Name: Longest Common Prefix
 // Topic: Strings, String Comparison
