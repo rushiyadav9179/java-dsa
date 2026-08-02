@@ -1,3 +1,5 @@
+
+
 import java.util.Arrays;
 
 // Problem Name: Height Checker
@@ -5,12 +7,11 @@ import java.util.Arrays;
 // Time Complexity: O(n log n)
 // Space Complexity: O(n)
 
-public class HeightChecker {
+public class HeightChecker1 {
 
     public int solution(int[] heights) {
 
         int n = heights.length;
-
         int[] arr = new int[n];
 
         for(int i = 0; i < n; i++) {
