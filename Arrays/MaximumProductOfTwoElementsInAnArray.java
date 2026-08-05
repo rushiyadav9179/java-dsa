@@ -1,7 +1,3 @@
-public class MaximumProductOfTwoElementsInAnArray {
-    
-}
-package Arrays;
 
 // Problem Name: Maximum Product of Two Elements in an Array
 // Topic: Arrays
