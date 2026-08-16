@@ -1,3 +1,4 @@
+package Arrays;
 // Problem Name: Max Consecutive Ones
 // Topic: Arrays
 // Time Complexity: O(n)

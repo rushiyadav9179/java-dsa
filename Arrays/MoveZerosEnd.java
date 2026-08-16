@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.Scanner;
 public class MoveZerosEnd{
     public static void main(String[] args){

@@ -1,3 +1,4 @@
+package Arrays;
 // Problem Name: Next Permutation
 // Topic: Arrays, Two Pointers
 // Time Complexity: O(n)

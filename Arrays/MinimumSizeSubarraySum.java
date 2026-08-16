@@ -1,3 +1,4 @@
+package Arrays;
 // Problem Name: Minimum Size Subarray Sum
 // Topic: Arrays, Sliding Window
 // Time Complexity: O(n)

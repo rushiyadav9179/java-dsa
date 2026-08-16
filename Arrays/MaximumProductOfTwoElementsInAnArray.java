@@ -1,4 +1,4 @@
-
+package Arrays;
 // Problem Name: Maximum Product of Two Elements in an Array
 // Topic: Arrays
 // Time Complexity: O(n)

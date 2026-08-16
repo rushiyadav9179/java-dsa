@@ -1,3 +1,4 @@
+package Arrays;
 // Problem Name: Third Maximum Number
 // Topic: Arrays
 // Time Complexity: O(n)

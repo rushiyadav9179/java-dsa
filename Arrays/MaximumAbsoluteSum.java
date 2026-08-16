@@ -1,3 +1,4 @@
+package Arrays;
 // Problem Name: Maximum Absolute Sum of Any Subarray
 // Topic: Arrays, Dynamic Programming (Kadane's Algorithm)
 // Time Complexity: O(n)

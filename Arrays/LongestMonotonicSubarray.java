@@ -1,3 +1,4 @@
+package Arrays;
 // Problem Name: Longest Strictly Increasing or Strictly Decreasing Subarray
 // Topic: Arrays
 // Time Complexity: O(n)

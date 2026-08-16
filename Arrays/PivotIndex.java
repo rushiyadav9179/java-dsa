@@ -1,3 +1,4 @@
+package Arrays;
 // Problem Name: Find Pivot Index
 // Topic: Arrays, Prefix Sum
 // Time Complexity: O(n)

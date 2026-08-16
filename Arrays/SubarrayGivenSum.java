@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.Scanner;
 public class SubarrayGivenSum {
     public static void main(String[] args) {

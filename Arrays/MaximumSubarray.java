@@ -1,3 +1,4 @@
+package Arrays;
 // Problem Name: Maximum Subarray
 // Topic: Arrays, Dynamic Programming (Kadane's Algorithm)
 // Time Complexity: O(n)

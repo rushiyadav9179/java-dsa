@@ -1,3 +1,4 @@
+package Arrays;
 // Problem Name: Best Time to Buy and Sell Stock
 // Topic: Arrays
 // Time Complexity: O(n)

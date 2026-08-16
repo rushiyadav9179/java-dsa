@@ -1,3 +1,4 @@
+package Arrays;
 // Problem Name: Minimum Operations to Make Array Sum Divisible by K
 // Topic: Arrays, Math
 // Time Complexity: O(n)
