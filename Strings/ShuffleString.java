@@ -1,5 +1,3 @@
-package Strings;
-
 // Problem Name: Shuffle String
 // Topic: Strings, Array Mapping
 // Time Complexity: O(n)
