@@ -1,7 +1,8 @@
+
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        if(s.isEquals("")){
-            return false;
+        if(s.equals("")){
+            return true;
         }
         int j=0;
         for(int i=0; i<t.length(); i++){
