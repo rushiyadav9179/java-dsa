@@ -1,5 +1,3 @@
-package Matrix;
-
 // Problem Name: Count Negative Numbers in a Sorted Matrix
 // Topic: Matrix, Binary Search
 // Time Complexity: O(m log n)
