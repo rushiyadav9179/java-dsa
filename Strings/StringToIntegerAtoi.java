@@ -1,4 +1,3 @@
-package Strings;
 
 // Problem Name: String to Integer (atoi)
 // Topic: Strings, Math, Overflow Handling
