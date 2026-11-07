@@ -1,4 +1,3 @@
-package Math;
 
 // Problem Name: Check Divisibility
 // Topic: Math, Digit Manipulation

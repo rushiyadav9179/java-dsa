@@ -1,4 +1,4 @@
-package Math;
+
 
 // Problem Name: Number of Steps to Reduce a Number to Zero
 // Topic: Math, Simulation
